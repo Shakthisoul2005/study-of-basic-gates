@@ -1,9 +1,8 @@
-### study-of-basic-gates
 ```
-name : shakthivel .v 
+NAME : SHAKTHI VEL V
 reg no : 24901278
-experiment no : 1. BASIC GATES
 ```
+### EXP1 . study-of-basic-gates digital  IC'S and verification of truth tables for different logic gates, realization using verilog
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.

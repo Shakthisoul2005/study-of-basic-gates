@@ -1,5 +1,7 @@
 ### study-of-basic-gates
-
+name : shakthivel .v 
+reg no : 24901278
+experiment no : 1. BASIC GATES 
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -80,16 +82,16 @@ endmodule
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
+
 **Logic symbol & Truthtable**
 ![Screenshot 2024-11-17 101644](https://github.com/user-attachments/assets/93bc26b5-d243-4c60-a21b-72fb16a792b0)
 
 
 **RTL realization Output:** 
-![Screenshot 2024-11-17 090607](https://github.com/user-attachments/assets/65addb08-9e0d-4f90-a200-c92e1aa50d36)
+![Screenshot 2024-11-17 093903](https://github.com/user-attachments/assets/60078027-a49a-405c-8df6-d5df0ad0ae04)
 
 **RTL**
+![Screenshot 2024-11-17 094627](https://github.com/user-attachments/assets/9b34cda0-372d-45ff-b717-2a14232856b5)
 
 **Result:**
 

@@ -1,7 +1,9 @@
 ### study-of-basic-gates
+```
 name : shakthivel .v 
 reg no : 24901278
-experiment no : 1. BASIC GATES 
+experiment no : 1. BASIC GATES
+```
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
